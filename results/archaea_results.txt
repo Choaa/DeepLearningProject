@@ -1,0 +1,61 @@
+perplexity: 24.8944149017334
+Sequence: q i d w h i l e k g 
+Sequence: a v l v a l m k v t g n h i l h t n k t o <unk> w u p v 
+Sequence: r c <pad> y s h p p s l t s e d e k h f i e a <pad> a u f p i c n q r g i h h 
+Sequence: e c p k f w k m e s u e a w w k w e e o e c k m <unk> d s <pad> c <pad> x o h l x t n x y 
+Sequence: y m e 
+Sequence: 
+Sequence: p q s p k s r y k w s p k r t n p h k r s h 
+Sequence: p o o p h i n o u u e s h r g g l c e g r d p d u w q <unk> a a h f e l u e 
+Sequence: a u o a i k <pad> x a e u k c f s n p s g y s t h a r g o v p e i 
+Sequence: p i <pad> f i g l r t d x g i e v g k t r s o t u i f n v k f r g h y n w f t t p p o g <unk> p c l h <unk> f m p o u t q h v y v q s f <pad> f r 
+Sequence: c m g k f r e 
+Sequence: w m o l x m y 
+Sequence: u e a e k n v 
+Sequence: d s w d t <unk> c t t n m g y x y y <unk> 
+Sequence: f q y l <pad> n <unk> l d x e g i v f k <pad> k e x u f u a x f v q s o k a d s m 
+Sequence: s r f d q d t l u g n p m l p <pad> x r g e k f x m c l q <pad> o i g l <unk> r h l y g <unk> m d e r x e <unk> l g g <pad> v n p q y q s g i f p r n r v k q c h 
+Sequence: i <pad> p h a q q a a l d e c r s n u q y c h m a g d v a h x i w w n g g <unk> e k a i u t i s q y f l s p x e s k o x x s s n i <pad> o y f q i x y d i <pad> q t f r a x v u e s u t n r o q t g <pad> y c e n <unk> h i a h g y y w c 
+Sequence: c d g n 
+Sequence: l k p v a s a v v o l i e k t w x q t i a k e d a h t r l m x g r v d s l m e <unk> v <pad> q n r p d s u l u s d i u u 
+Sequence: <pad> d a q n i u c f l e e l p a m f v k s i a p y a a e d 
+Sequence: e n r f f w m e i k d g 
+Sequence: s h v <pad> h i <unk> t o q w p a e r s y d l h e u m x t p s g <pad> r f c k v c l 
+Sequence: q m 
+Sequence: n h r v l l g d k l t u r <pad> t m 
+Sequence: t g h l w w l r g q r l q g s <unk> v a w l h d 
+Sequence: v w c i w <pad> f f v c 
+Sequence: e s h a s c d p i g s a <pad> k t k t w l f g l q p 
+Sequence: q f i n a <pad> u n m s r v g i o t 
+Sequence: w r 
+Sequence: l m v y e y a e k x e c k l f d g y t v u e l q w <pad> d h f d g g v t v 
+Sequence: u u l h t 
+Sequence: p h w r g l v h g q x f m x o d v x c r <unk> h w <pad> i g g h d <pad> w <pad> f q w v f h x a v q h o o h p g e k o <unk> <unk> h g s v y p c a s d l u x x p a o x x p d n u p d k p e v v m a o m 
+Sequence: i f t t f m u l d t h p g 
+Sequence: <pad> g o x q h s m k o <unk> q l o e i y w d l w a n q 
+Sequence: <pad> n t n n g <unk> l m q l k t r e x <unk> o m q a d u o <unk> v h i <unk> t <pad> t 
+Sequence: <pad> x r s o a m f f v <unk> <pad> q q x r <pad> r l s w v q o 
+Sequence: g <pad> c k t e r v <pad> e u e v a i w h r y a m <pad> k q l r w k m n t r w s y k g m f g n d p n q w e x x <unk> a i n t p m h k i p l t r l f t g a x s s f c r <unk> d s d w f x c r <pad> g y <pad> c e h k m i u c p <unk> n x m s m <unk> e a <unk> s p i <pad> n o k x t t s k g s u l s r r r n 
+Sequence: w q e k n w s x e o l g m l r n <pad> c x u q i o o d h p k v h n w r s y y i q u l r d v x a <unk> u q w c x 
+Sequence: e m y <pad> f h t i q u y w i t l r n t n t f h i e i a r q <unk> c m o t 
+Sequence: v p x q f <unk> u r o <unk> h a g p l o d q n k l o f i o r <unk> k n x w v k r e c n q p h p u c s g e d e 
+Sequence: f f p l c c y g e w x <pad> c g q f p n f r w a d a d h r 
+Sequence: q d g l i t v c u l v h t <unk> n l c y p o s v s f a v n q g r e g r h d e d u o n q v y e o f e n h e k c i a v g o e m 
+Sequence: a k g q x h p p 
+Sequence: c r f y h n c y c x a <unk> h w k g p i t x u u l e s d c o a y v a s n f e t c l o l p i a x p p <pad> r s f g g o e g d i d <unk> a x m s i i d c r y a d 
+Sequence: t s r r c f r x r v n y f a t y k d a v d <unk> g f <pad> c d s <unk> i x v e i u o p y h w s t r v e u s k e d h v e o <pad> k f i g a x v w o k 
+Sequence: i l v c p w f k x u a i s r t a x w e l s c <unk> <unk> d e k x u i c <unk> c n 
+Sequence: s t h m y t p k g e v o v w e <unk> m s s <pad> a c g i h w l w q s s l q e v s i s v v e d i t l g v w h y d k r t v <unk> y o e r <unk> g k g e n u u <unk> r m c t a t s o k e r r a l e v i k t 
+Sequence: u y a s 
+Sequence: s p <unk> s f w l a i <unk> f d f t u g a h c g a g r <unk> x o t h t e i h r x <pad> e y p s m e f n i a q x m e 
+Sequence: i y a g s s f g o s x k u n e 
+Sequence: a d l d p f m g v y k c t u t p w l v k w m q e g u a n v g h l c y u v q d l d q p e e g e o v r w 
+Sequence: <pad> a <unk> t v q h r a p r x t w v k 
+Sequence: f f g w t l a y m c k n t v <pad> f g k u i g l m <pad> v v u w l 
+Sequence: p k <pad> k q i s r a o i f d 
+Sequence: l 
+Sequence: g <pad> f r h <pad> a p y v g m y u k w k k k e t n e e t t v g d a 
+Sequence: w d <pad> c o x d v f m u a <unk> r u x p <pad> v l m o q m m d y l n t h 
+Sequence: g v f <pad> v x k k y u n k k v 
+Sequence: h v s <pad> h h h w v y g n l <pad> w p r i n h g u l f l e l e o m a d f u w <unk> h <unk> v f r a m n t t l w t <unk> k n <pad> y s t i k l l m n t a f w s f p c a f <unk> q q c p f s s u o e s s y x v <pad> n 
+Sequence: q p e r f r f i t h v <pad> a g w t e g a r t m m y a d 
